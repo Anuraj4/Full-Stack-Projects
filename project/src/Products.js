@@ -1,9 +1,10 @@
 import React from 'react'
+import NavB from './components/NavB'
 
 const Products = () => {
   return (
     <div>
-      Products
+      <NavB/>
     </div>
   )
 }
