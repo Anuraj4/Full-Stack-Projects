@@ -1,11 +1,14 @@
 import React from 'react'
-import Navbar from './components/NavB'
+import NavB from './components/NavB'
 
 const Home = () => {
   return (
+    <>
     <div>
-      <Navbar />
+      <NavB />
     </div>
+    </>
+    
   )
 }
 
