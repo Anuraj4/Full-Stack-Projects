@@ -7,6 +7,9 @@ import Contact from './Contact';
 import SingleProduct from './SingleProduct';
 import Cart from './Cart';
 import ErrorPage from './ErrorPage';
+import './App.css';
+import './components/NavB'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (
